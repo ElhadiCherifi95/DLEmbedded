@@ -1,0 +1,12 @@
+Deep learning embarqué:
+	0-Bonjour, qui je suis (1min)
+	1- Deep learning: petite intro (Ce que c'est, les phases entreprisent pour l'utiliser) (3min)
+	2- Différence avec le deep learning embarqué (la machine de train <> machine de test ....) (1min)
+		2.1-Entraînement du modèle (3min)
+		2.2-Déploiement du modèle (3min)
+		2.3-Utilisation du modèle (3min)
+	3-Live démo:
+		3.1-La jetson nano (2min)
+		3.2-Réception et préparation de la carte (2min)
+		3.3-Utilisation du modèle de reconnaissance d'images en temps réél (3min)
+	4-Conclusion (3min)
