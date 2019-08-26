@@ -1,4 +1,4 @@
-# DLEmbedded
+# Attachez vos ceintures le deep learning a embarqué
 
 Démocratiser le deep learning est l'un des challenges les plus passionnants que tente de relever la communauté data. À l'aide de GPUs embarqués dans des cartes ultra-performantes, de nouvelles possibilités s'ouvrent à nous pour relever ce challenge.
 
