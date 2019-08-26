@@ -20,8 +20,8 @@ Deep learning embarqué:
                     ** Lancer une prédiciton sur les données test on mesure l'erreur avec les vrai labels (pas frocément à l'aide de la même fonctionde coût)
                     ** Si l'erreur est acceptable le modèle est entraîné sinon on retourne à l'étape 3 (à chaque retour à l'étape 3 une "epoch" s'est déroulé).
                 2.1.3 Sauvegarde du modèle :
-                    **Pour faire passer le modèle entre plusieurs machine (ex:de la machine d'entrainement vers celle de la prediction)
-                      Sauvegarde au format binaire: h5, protobuf 
+                    ** Pour faire passer le modèle entre plusieurs machine (ex:de la machine d'entrainement vers celle de la prediction)
+                       Sauvegarde au format binaire: h5, protobuf 
                 2.1.4 Une slide de résumé
 		2.2-Déploiement du modèle (7min) la machine de train <> machine de test, nerf de la guerre
 		        2.2.1 Différence d'architecture:  arm, raspberry
